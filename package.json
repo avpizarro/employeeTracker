@@ -1,0 +1,29 @@
+{
+  "name": "employeeTracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employeeTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avpizarro/employeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avpizarro/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/avpizarro/employeeTracker#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "console.table": "^0.10.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
