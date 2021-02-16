@@ -78,5 +78,3 @@ VALUES("Andrea", "Chez", "general manager", (SELECT id FROM roles WHERE title="g
 ("Elizabeth", "Blackburn", "retail assistant", (SELECT id FROM roles WHERE title="retail assistant", "Tu Youyou", (SELECT id FROM employees WHERE first_name="Tu" AND last_name="Youyou")),
 ("Carol", "Greider", "customer service officer", (SELECT id FROM roles WHERE title="customer service officer"), "Tu Youyou", (SELECT id FROM employees WHERE first_name="Tu" AND last_name="Youyou")),
 ("Francoise", "Barre-Sinoussi", "retail assistant", (SELECT id FROM roles WHERE title="retail assistant"), "Tu Youyou", (SELECT id FROM employees WHERE first_name="Tu" AND last_name="Youyou"));
-
-
