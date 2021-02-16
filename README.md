@@ -5,7 +5,7 @@
 
   Keep track of your employees, their roles and your company's budget with this employee management app.
 
-Usage video :link: 
+Usage video :link: https://drive.google.com/file/d/18WUH5rFVcPRuT0WYdOBR08xPagx75uZ-/view
 
 Github repository :link: https://github.com/avpizarro/employeeTracker.git
   
